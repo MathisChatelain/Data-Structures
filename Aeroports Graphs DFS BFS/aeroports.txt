@@ -1,0 +1,8 @@
+LHR Londres Royaume-Uni
+BER Berlin Allemagne
+MXP Milan Italie
+NRT Tokyo Japon
+CDG Paris France
+YUL Montreal Canada
+MAD Madrid Espagne
+GVA Geneve Suisse

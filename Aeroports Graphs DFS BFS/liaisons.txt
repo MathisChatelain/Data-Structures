@@ -1,0 +1,8 @@
+Paris Tokyo Berlin Madrid
+Paris
+Geneve Paris
+Montreal Paris Londres
+Paris Londres Berlin Tokyo Geneve
+Paris Tokyo Londres
+Geneve
+Tokyo Paris Londres
