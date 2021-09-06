@@ -1,0 +1,14 @@
+categorie,cockpit
+sous-categorie,pilote
+tache,manette_A
+tache,manette_B
+sous-categorie,co-pilote
+tache,bouton_c
+tache,bouton_d
+categorie,fuselage
+sous-categorie,aile_droite
+tache,reacteur_A
+tache,reacteur_B
+sous-categorie,aile_gauche
+tache,reacteur_C
+tache,reacteur_D

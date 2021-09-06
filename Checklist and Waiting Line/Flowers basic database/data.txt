@@ -1,0 +1,4 @@
+Marguerite,10,non
+Tulipe,7,non
+Rose,12,oui
+Lys,3,non
